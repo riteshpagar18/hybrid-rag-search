@@ -1,0 +1,17 @@
+# Employee Leave Policy (Illustrative Demo Data)
+
+This sample policy is fictional and is included only to demonstrate document retrieval. It is not an actual employer policy.
+
+## Annual Leave
+
+Eligible full-time employees receive 20 workdays of annual leave per calendar year after completing a 90-day introductory period. Annual leave is intended for planned time away from work. Unused annual leave does not carry over into the next calendar year in this sample policy. Company holidays are separate from annual leave and are not deducted from an employee's annual leave balance.
+
+Employees should submit annual leave requests through the HR portal at least five business days before the requested start date whenever possible. Managers are responsible for approving or rejecting leave requests. Employees should wait for approval before making non-refundable travel arrangements. For urgent or unexpected situations, employees should contact their manager as soon as possible.
+
+## Sick Leave
+
+Eligible employees receive 10 paid sick days per calendar year. Employees who are unable to work because of illness should notify their manager before their scheduled start time when possible. A healthcare provider's note may be requested after more than three consecutive workdays of sick leave. Sick leave is for the employee's illness, medical appointments, or recovery and is separate from annual leave.
+
+## Submitting a Request
+
+Employees must submit leave requests to their reporting managers. A request should include the dates requested and a brief note about coverage for time-sensitive work. Managers consider team coverage and business needs when reviewing requests. Submitting a request does not mean it has been approved; employees should confirm the decision in the HR portal or with their manager.

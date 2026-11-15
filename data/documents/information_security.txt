@@ -1,0 +1,3 @@
+Information Security Policy
+
+Employees must use multi-factor authentication when signing in to company systems. Suspected phishing messages must be reported to the Security team immediately. Company devices must be protected with a screen lock, and lost devices must be reported to IT as soon as possible.

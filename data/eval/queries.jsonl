@@ -1,0 +1,12 @@
+{"question":"Who approves or rejects leave requests?","relevant":["employee_policy.txt"],"answer":"Managers are responsible for approving or rejecting leave requests.","answerable":true}
+{"question":"How many days of annual leave do eligible full-time employees receive?","relevant":["employee_policy.txt"],"answer":"Eligible full-time employees receive 20 workdays of annual leave per calendar year after completing a 90-day introductory period.","answerable":true}
+{"question":"Who should receive a leave request?","relevant":["employee_policy.txt"],"answer":"Employees must submit leave requests to their reporting managers.","answerable":true}
+{"question":"How far in advance should planned annual leave be requested?","relevant":["employee_policy.txt"],"answer":"At least five business days before the requested start date whenever possible.","answerable":true}
+{"question":"Do unused annual leave days carry over?","relevant":["employee_policy.txt"],"answer":"Unused annual leave does not carry over into the next calendar year.","answerable":true}
+{"question":"How many paid sick days are provided per year?","relevant":["employee_policy.txt"],"answer":"Eligible employees receive 10 paid sick days per calendar year.","answerable":true}
+{"question":"When may a healthcare provider note be requested for sick leave?","relevant":["employee_policy.txt"],"answer":"A healthcare provider's note may be requested after more than three consecutive workdays of sick leave.","answerable":true}
+{"question":"Are company holidays deducted from annual leave?","relevant":["employee_policy.txt"],"answer":"No. Company holidays are separate from annual leave and are not deducted from an employee's annual leave balance.","answerable":true}
+{"question":"How long is parental leave?","relevant":[],"answer":"The provided documents do not contain enough information to answer this question.","answerable":false}
+{"question":"How long do employees have to submit an expense claim?","relevant":["expense_policy.md"],"answer":"Employees must submit business expense claims within 30 days of purchase.","answerable":true}
+{"question":"What must employees do when they suspect phishing?","relevant":["information_security.txt"],"answer":"Report suspected phishing messages to the Security team immediately.","answerable":true}
+{"question":"Who must approve business travel before booking?","relevant":["travel_policy.md"],"answer":"The employee's manager must approve business travel before booking.","answerable":true}

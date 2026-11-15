@@ -1,0 +1,11 @@
+services:
+  rag-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      CHROMA_PATH: /app/chroma_db
+      OLLAMA_HOST: ${OLLAMA_HOST:-http://host.docker.internal:11434}
+    volumes:
+      - ./data:/app/data
+      - ./chroma_db:/app/chroma_db
